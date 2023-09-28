@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Live Demo
 
 To run the app, it is deployed.\
-Check the deployed project here:  <a href="https://kartikbanga.netlify.app/" target="_blank">Link</a>
+Check the deployed project here:  <a target="_blank" href="https://kartikbanga.netlify.app/" >Link</a>
 
 ## Available Scripts
 
