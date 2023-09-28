@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo
+
+To run the app, it is deployed.
+Check the deployed project here: [Link](https://kartikbanga.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
