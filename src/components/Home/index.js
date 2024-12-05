@@ -81,6 +81,15 @@ const Home = () => {
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
+          <a
+            href="https://drive.google.com/file/d/1Q_X1UpiFOPHFtW-32HyKwEh_miqKagK_/view?usp=sharing"
+            className="flat-button"
+            target='_blank'
+            rel="noopener noreferrer"
+            download="Kartik's Resume.pdf"
+          >
+            DOWNLOAD CV
+          </a>
         </div>
         {/* <Logo /> */}
         <img className="solid" src={LogoS} alt="kartik" />
