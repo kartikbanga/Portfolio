@@ -37,18 +37,18 @@ const Overlay = ({ active, onClose, message }) => {
               />
             </h1>
             <p>
-              B.Tech in Computer Science <br />
+              B.Tech in Computer Science, <br />
               State Institute of Engineering and Technology, Kurukshetra
               University
-              <h2>GPA: 8.54 | Karnal, Haryana</h2>
+              <h2>2019-2023 | GPA: 8.54 | Karnal, Haryana</h2>
             </p>
             <p>
               Sant Nischal Singh Public School
-              <h2>XII | 88.8% | Yamuna-Nagar, Haryana</h2>
+              <h2>XII | 2019 | 88.8% | Yamuna-Nagar, Haryana</h2>
             </p>
             <p>
               Sant Nischal Singh Public School
-              <h2>X | 95% | Yamuna-Nagar, Haryana</h2>
+              <h2>X | 2017 | 95% | Yamuna-Nagar, Haryana</h2>
             </p>
           </p>
         ) : message === 'skills' ? (
